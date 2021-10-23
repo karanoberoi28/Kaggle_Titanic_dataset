@@ -7,3 +7,5 @@ This is a multi-label classification, with 2 labels:
 
 - 0: passenger did not survive 
 - 1: passenger survived
+
+All detailed steps are explained in the Jupyter Notebook!
